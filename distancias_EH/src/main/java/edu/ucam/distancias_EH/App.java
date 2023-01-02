@@ -10,7 +10,7 @@ public class App
 	  private static final double EARTH_RADIUS = 6371.0; // radio de la Tierra en Km
 
 	  public static void main(String[] args) {
-	    // Coordenadas de El Hoyo, Ciudad Real
+	    // Coordenadas de El Hoyo
 	    double elHoyoLat = 38.7833;
 	    double elHoyoLng = -4.4167;
 
